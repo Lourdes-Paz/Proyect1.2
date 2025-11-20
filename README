@@ -1,0 +1,34 @@
+AI_Project
+Actividad formativa – GitHub Copilot
+
+Este proyecto contiene un ejemplo básico de un sistema de recomendación creado utilizando Python y el apoyo de GitHub Copilot.
+
+Pasos realizados
+
+Creación de cuenta GitHub y solicitud del Student Developer Pack.
+
+Activación de GitHub Copilot.
+
+Creación de un repositorio llamado AI_Project.
+
+Clonación del repositorio en Visual Studio Code.
+
+Generación del archivo recommendation_system.py usando Copilot.
+
+Documentación y subida de cambios a GitHub.
+
+Capturas del proceso
+
+<img width="677" height="350" alt="image" src="https://github.com/user-attachments/assets/220b9643-4d2e-40a3-93f5-ce4d66916f7d" />
+<img width="495" height="292" alt="image" src="https://github.com/user-attachments/assets/084df034-3001-40a7-b25f-1b912c5666b5" />
+<img width="842" height="398" alt="image" src="https://github.com/user-attachments/assets/de51b3f1-bd48-47d1-a2e4-67a1680e331c" />
+
+
+
+7. Hacer Commit y Push git add .
+git commit -m "Initial project with Copilot code"
+git push origin main
+
+
+En la terminal de VS Code escribe:
+8. Compartir el repositorio https://github.com/Lourdes-Paz/Proyect1.2.git
